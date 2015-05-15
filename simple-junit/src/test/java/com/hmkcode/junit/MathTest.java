@@ -17,6 +17,8 @@ import static org.hamcrest.CoreMatchers.is;
  *
  * @author hmkcode@gmail.com (Hani HMK)
  */
+
+//尝试怎么恢复到某个历史版本
 @RunWith(JUnit4.class)
 public class MathTest {
 
